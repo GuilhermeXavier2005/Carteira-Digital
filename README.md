@@ -11,5 +11,8 @@ O projeto é desenvolvido durante o período letivo do curso de Ciência da Comp
 ---- Como funciona
 
   É recomendável usar um sistema operacional Windows para o funcionamento apropriado do código.
+  
   Baixe os arquivos do projeto.
+  
   Execute o .exe.
+  
