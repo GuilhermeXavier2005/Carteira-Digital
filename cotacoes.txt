@@ -1,0 +1,3 @@
+bitcoin,59908
+etherium,684
+ripple,134
